@@ -1,0 +1,17 @@
+* {
+  box-sizing: border-box;
+}
+
+html {
+  font-size: 62.5%; /* 1rem = 10px */
+}
+
+body {
+  font-family: "Sora", sans-serif;
+  font-size: 1.6rem;
+  font-weight: 300;
+}
+
+:root {
+  --color-primary: #2e80ce;
+}
