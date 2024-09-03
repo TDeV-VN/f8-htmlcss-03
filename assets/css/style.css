@@ -27,7 +27,7 @@ a {
   text-decoration: none;
 }
 
-/* ========== header ==========*/
+/* ========== Header ==========*/
 .header {
   min-height: 100vh;
   background: var(--bg-header);
